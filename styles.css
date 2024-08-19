@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(29, 27, 27);
+}
+nav p{
+    width: 500px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+      display: inline-block;
+    color: goldenrod
+        
+}
+nav{
+    color: aliceblue;
+}
+h4{
+    color: yellow;
+
+}
+h2{
+    color: aliceblue;
+}
+ p{
+    color: beige;
+}
+
+img{
+ 
+    box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    border: 10px solid yellow;
+    float: right;
+}
+h3{
+    color: yellow;
+    display: inline-table;
+    float: inline;
+    
+}
+h1{
+ color: rgb(243, 247, 18);
+    
+}
+.child{
+ width: 400px;
+ height: 430px;
+ background-color: rgb(151, 160, 157);
+}
+
+   
+   
+    .child2{
+        width: 200px;
+        height: 50px;
+        background-color: rgb(194, 228, 248);
+    
+   }
+   .child3{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(194, 228, 248);
+
+}
+.child4{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(194, 228, 248);
+
+}
+label{
+    color: rgb(21, 23, 26);
+}
+.child5{
+    width: 40px;
+    height: 40px;
+    background-color: rgba(194, 228, 248, 0.055);
+
+
+
+
+
+}
